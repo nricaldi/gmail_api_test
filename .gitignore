@@ -1,0 +1,8 @@
+client_secret.json
+
+venv
+/venv
+
+token_gmail_v1.pickle
+
+__pycache__/
